@@ -14,19 +14,4 @@ Ten projekt to prosty serwer Node.js, który pełni funkcję pamięci długoterm
 
 \- Kompatybilność z GPTs dzięki OpenAPI i `ai-plugin.json`.
 
-\- Hostowalny na Vercel – wystarczy wrzucić repozytorium i działa!
-
-
-
-\## 🚀 Jak uruchomić lokalnie.
-
-
-
-```bash
-
-npm install
-
-npm start
-
-
 
